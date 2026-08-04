@@ -1,4 +1,4 @@
-# Outcome Classifier (Pod Beta)
+# The Validator: Outcome Classifier (Pod Beta)
 
 CyBreach Module 2: The Validator - Outcome Classifier microservice.
 
